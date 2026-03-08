@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio | CSE Student</title>
+    <style>
+        body { font-family: 'Segoe UI', sans-serif; line-height: 1.6; margin: 0; padding: 0; background: #f4f4f9; color: #333; }
+        header { background: #2c3e50; color: white; padding: 2rem; text-align: center; }
+        container { width: 80%; margin: auto; overflow: hidden; padding: 2rem; }
+        .card { background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); margin-bottom: 20px; }
+        .btn { display: inline-block; background: #3498db; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; }
+        input, textarea { width: 100%; padding: 10px; margin: 10px 0; border: 1px solid #ccc; border-radius: 4px; }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Hi, I'm Ayush choudhary </h1>
+    <p>Computer Science & Engineering Student</p>
+</header>
+
+<div class="container">
+    <section class="card">
+        <h2>About Me</h2>
+        <p>I am a passionate CSE student focusing on building scalable web applications and solving complex problems. I love exploring new technologies and working on open-source projects.</p>
+    </section>
+
+    <section class="card">
+        <h2>Let's Connect</h2>
+        <p>Check out my professional profile:</p>
+        <a href="www.linkedin.com/in/ayush-choudhary-csecore" class="btn">View LinkedIn Profile</a>
+        <hr>
+        <h3>Drop me a message</h3>
+        <form action="https://formspree.io/f/your-id" method="POST">
+            <input type="email" name="email" placeholder="kumarayush1416@gmail.com" required>
+            <textarea name="message" placeholder="What's on your mind?" required></textarea>
+            <button type="submit" class="btn" style="border:none; cursor:pointer;">Send Email</button>
+        </form>
+    </section>
+</div>
+
+</body>
+</html>
