@@ -1,16 +1,36 @@
-## Hi there 👋
+## Hi, I'm Ayush 👋
 
-<!--
-**dxAyush/dxayush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is my first ever website. I know it's not perfect, but it's something new for me, and I'm still learning.
 
-Here are some ideas to get you started:
+This is not my main page yet. I am currently working on my main website, where I will showcase my projects and the things I build.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This page is just a trial page so I can learn how to build websites and redirect visitors to my LinkedIn profile.
+
+Thanks for visiting! 🚀
+
+---
+
+### 🚀 About Me
+- 🎓 B.Tech CSE Student
+- 💻 Learning Web Development and Programming
+- 🧠 Exploring AI and building cool projects
+- 🏋️ Gym enthusiast
+
+---
+
+### 🔧 Currently Learning
+- HTML
+- CSS
+- JavaScript
+- C / Java (for college)
+- AI integrations
+
+---
+
+### 📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/ayush-choudhary-csecore
+- Email: soon
+
+---
+
+⭐ Stay tuned for my main portfolio website!
