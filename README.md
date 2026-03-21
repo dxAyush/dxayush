@@ -29,7 +29,7 @@ Thanks for visiting! 🚀
 
 ### 📫 Connect With Me
 - LinkedIn: www.linkedin.com/in/ayush-choudhary-csecore
-- Email: soon
+- My website: https://dxayush.github.io/portfolioAyush-/
 
 ---
 
