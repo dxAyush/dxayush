@@ -10,21 +10,26 @@ Thanks for visiting! 🚀
 
 ---
 
-### 🚀 About Me
-- 🎓 B.Tech CSE Student
-- 💻 Learning Web Development and Programming
-- 🧠 Exploring AI and building cool projects
-- 🏋️ Gym enthusiast
+###  About Me
+-  B.Tech CSE Student
+-  Learning Web Development and Programming
+-  Exploring AI and building cool projects
+-  Gym enthusiast
 
 ---
 
-### 🔧 Currently Learning
+###  Currently Learning
 - HTML
 - CSS
 - JavaScript
 - C / Java (for college)
 - AI integrations
-
+- Rect.js 
+- Typescript 
+- Python 
+- Python library Flask 
+- MySQL 
+- TailwindCSS
 ---
 
 ### 📫 Connect With Me
