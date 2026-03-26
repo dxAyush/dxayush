@@ -1,4 +1,4 @@
-## Hi, I'm Ayush 👋
+## Hi, I'm Ayush 
 
 This is my first ever website. I know it's not perfect, but it's something new for me, and I'm still learning.
 
