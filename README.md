@@ -2,7 +2,7 @@
 
 This is my first ever website. I know it's not perfect, but it's something new for me, and I'm still learning.
 
-This is not my main page yet. I am currently working on my main website, where I will showcase my projects and the things I build.
+This is  my main page yet. I am currently working on my main website, where I will showcase my projects and the things I build.
 
 This page is just a trial page so I can learn how to build websites and redirect visitors to my LinkedIn profile.
 
